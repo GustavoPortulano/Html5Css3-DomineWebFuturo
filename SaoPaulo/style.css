@@ -10,7 +10,7 @@ body {
 }
 
 /*Página 16: bordas e margens*/
-.place {
+article {
     border-color: #CCC #999 #999 #ccc;
     border: 1px solid #CCC;
     margin-bottom: 20px;
